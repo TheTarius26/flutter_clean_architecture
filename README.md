@@ -1,3 +1,6 @@
+# :book: Tutorial by
+:fire: Shout out to [AbdulMuaz Aqeel](https://devmuaz.medium.com/flutter-clean-architecture-series-part-1-d2d4c2e75c47) for his good article on Medium! 
+
 # Clean Architecture
 
 ![coverage][coverage_badge]
@@ -32,26 +35,6 @@ $ flutter run --flavor production --target lib/main_production.dart
 ```
 
 _\*Clean Architecture works on iOS, Android, Web, and Windows._
-
----
-
-## Running Tests 🧪
-
-To run all unit and widget tests use the following command:
-
-```sh
-$ flutter test --coverage --test-randomize-ordering-seed random
-```
-
-To view the generated coverage report you can use [lcov](https://github.com/linux-test-project/lcov).
-
-```sh
-# Generate Coverage Report
-$ genhtml coverage/lcov.info -o coverage/
-
-# Open Coverage Report
-$ open coverage/index.html
-```
 
 ---
 
