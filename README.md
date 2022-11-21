@@ -1,4 +1,4 @@
-# :book: Tutorial by
+# :book: Shout out
 :fire: Shout out to [AbdulMuaz Aqeel](https://devmuaz.medium.com/flutter-clean-architecture-series-part-1-d2d4c2e75c47) for his good article on Medium! 
 
 # Clean Architecture
